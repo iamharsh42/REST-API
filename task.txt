@@ -1,0 +1,6 @@
+In this REST API we will be developing the given routes:
+
+1) GET /api/users - List all the users
+2) GET api/users/id - List the user with given id
+3) POST api/users - Create new user
+4) PATCH /api/users/id - Edit the user with given id
